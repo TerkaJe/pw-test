@@ -1,2 +1,14 @@
 # Local
- _deffer/
+_deffer/
+.vscode/
+.DS_Store/
+node_module/
+
+# Secret
+.env
+!.env_example
+
+
+# Playwright
+playwright-report/
+test-results/
